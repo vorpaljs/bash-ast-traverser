@@ -28,9 +28,9 @@ traverse(ast, {
 
 
 
-[![Travis Build Status](https://img.shields.io/travis/vorpaljs/mode-grammar-builder/master.svg)](http://travis-ci.org/vorpaljs/mode-grammar-builder)
-[![NPM module](https://img.shields.io/npm/v/mode-grammar-builder.svg)](https://npmjs.org/package/mode-grammar-builder)
-[![NPM downloads](https://img.shields.io/npm/dt/mode-grammar-builder.svg)](https://npmjs.org/package/mode-grammar-builder)
+[![Travis Build Status](https://img.shields.io/travis/vorpaljs/bash-ast-traverser/master.svg)](http://travis-ci.org/vorpaljs/bash-ast-traverser)
+[![NPM module](https://img.shields.io/npm/v/bash-ast-traverser.svg)](https://npmjs.org/package/bash-ast-traverser)
+[![NPM downloads](https://img.shields.io/npm/dt/bash-ast-traverser.svg)](https://npmjs.org/package/bash-ast-traverser)
 
 
 # License

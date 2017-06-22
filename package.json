@@ -2,9 +2,9 @@
   "name": "bash-ast-traverser",
   "version": "0.4.1",
   "description": "Traverse an AST object created by bash-parser",
-  "repository": "vorpaljs/bash-parser",
+  "repository": "vorpaljs/bash-ast-traverser",
   "license": "MIT",
-  "author": "Andrea Parodi",
+  "author": "Andrea Parodi <andrea@parro.it>",
   "scripts": {
     "test": "ava && xo",
     "cover-test": "nyc ava"
